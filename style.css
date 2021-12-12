@@ -165,3 +165,8 @@ transition: 1s;
 #radio4:checked ~ .navagation-auto .auto-btn4{
     background: #40D3DC;
 }
+/* #myDiv div{
+    text-align:centre;
+    display:grid;
+    padding:30px;
+} */
